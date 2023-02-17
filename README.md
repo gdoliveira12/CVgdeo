@@ -1,5 +1,5 @@
 # CVgdeo
 Portfolio Guilherme De Oliveira
-He realizado también trabajos y proyectos varios de diseño gráfico:
+Diferentes trabajos y proyectos (Programación y diseño gráfico) repartidos en las branches del repositorio. 
 
   
